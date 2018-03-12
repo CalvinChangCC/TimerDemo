@@ -1,2 +1,2 @@
 # TimerDemoProject
-Lesson 2 Demo App
+This is a Demo app for Lesson 2
